@@ -14,7 +14,8 @@
 This project aims to reduce the risk of losing money and maximizing the profits while investing in the stocks/ mutual funds. So we are going to discuss how to construct a better investment strategy using Fund of funds, which means investing money by splitting into many funds instead of stocks.The main goal is to find a balance between risk and return while taking into account real-world factors such as transaction costs. So we are trying to achieve this by using new optimization problem called ADMM. Here, the complex problem is broken to small and tiny problems into simpler ones. So this method is better and much faster than the traditional method like Mean-Variance model.
 
 ## Process flow
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/6134743e-cc80-4283-b2e5-bc397d5321be" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/48dd7640-3973-42a8-a734-1da064d9095b" />
+
 
 ### Workflow  
 1. Define portfolio optimization problem  
