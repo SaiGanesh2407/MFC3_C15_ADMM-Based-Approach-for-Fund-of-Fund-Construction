@@ -67,12 +67,14 @@ Bound Constraints - Each fund has minimum and maximum investment limits.
 Linear Constraint - Ensures portfolio follows rules like risk limits, diversification, category limits. 
 
 ## Notations
-<img width="550" height="248" alt="image" src="https://github.com/user-attachments/assets/997d06d7-1ac7-4ee5-bf60-7dd81426f903" />
+<img width="550" height="248" alt="image" src="https://github.com/user-attachments/assets/49b89f60-a9f7-404d-9d7e-92c991412efd" />
+
 
 ### Results
-<img width="700" height="880" alt="image" src="https://github.com/user-attachments/assets/83a0c7ad-24bf-4f09-9ce4-2b604509d68b" />
+<img width="700" height="880" alt="image" src="https://github.com/user-attachments/assets/c7b35cd5-cdc2-431c-b8ed-202271b90e28" />
 
-<img width="776" height="376" alt="image" src="https://github.com/user-attachments/assets/99a94b89-7606-4f73-9182-8f05b05261d9" />
+<img width="776" height="376" alt="image" src="https://github.com/user-attachments/assets/e698a4f3-dd44-4839-8593-1efd3476d7a1" />
+
 
 ### Conclusion
 This project applies the ADMM (Alternating Direction Method of Multipliers) optimization technique to improve investment allocation across multiple funds. Starting from equal initial allocations, ADMM efficiently redistributes investments while satisfying category and risk constraints from the research paper. The optimized results show how ADMM can balance risk, return, and investment limits, making it a powerful approach for real-world portfolio optimization and fund management.
